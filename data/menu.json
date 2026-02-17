@@ -1,0 +1,135 @@
+{
+  "brownies": {
+    "title": "Brownies",
+    "icon": "🍫",
+    "items": [
+      { "name": "Classic Brownie", "price": 50 },
+      { "name": "Nutty Brownie", "price": 60 },
+      { "name": "Walnut Brownie", "price": 60 },
+      { "name": "Pistachio Brownie", "price": 60 },
+      { "name": "Double Chocolate Brownie", "price": 60, "tag": "Must Try" },
+      { "name": "Triple Chocolate Brownie", "price": 60 },
+      { "name": "Nutella Brownie", "price": 70 },
+      { "name": "Biscoff Brownie", "price": 70, "tag": "Best Seller" },
+      { "name": "Cream Cheese Brownie", "price": 70 },
+      { "name": "Brownie Slab ½kg", "price": 400 },
+      { "name": "Eggless Brownie Slab ½kg", "price": 450 }
+    ]
+  },
+  "blondies": {
+    "title": "Blondies",
+    "icon": "🍯",
+    "items": [
+      { "name": "Classic Blondie", "price": 50 },
+      { "name": "Oreo Blondie", "price": 50 },
+      { "name": "Nutty Blondie", "price": 60 },
+      { "name": "Pista Blondie", "price": 60 },
+      { "name": "Double Chocolate", "price": 60 },
+      { "name": "Caramel Blondie", "price": 70 },
+      { "name": "Nutella Blondie", "price": 70, "tag": "Best Seller" },
+      { "name": "Biscoff Blondie", "price": 70 }
+    ]
+  },
+  "brownieBites": {
+    "title": "Brownie Bites",
+    "icon": "✨",
+    "items": [
+      { "name": "Chocolate Overloaded", "price": 120, "desc": "Topped with melted Dark / White / Milk chocolate" },
+      { "name": "Double Choco Overloaded", "price": 140, "desc": "Topped with two melted chocolates of your choice" },
+      { "name": "Triple Choco Overloaded", "price": 150, "desc": "Topped with dark, white, and milk chocolate" },
+      { "name": "Nutella Overloaded", "price": 160 },
+      { "name": "Biscoff Overloaded", "price": 160 }
+    ]
+  },
+  "cupcakes": {
+    "title": "Cup Cakes",
+    "icon": "🧁",
+    "items": [
+      { "name": "Chocochip Vanilla", "price": 20 },
+      { "name": "Nutty Vanilla", "price": 20 },
+      { "name": "Strawberry", "price": 20 },
+      { "name": "Pineapple", "price": 20 },
+      { "name": "Pistachio", "price": 20 },
+      { "name": "Marble", "price": 20 },
+      { "name": "Red Velvet", "price": 25 },
+      { "name": "Chocolate", "price": 25 },
+      { "name": "Biscoff Truffle", "price": 30 },
+      { "name": "Nutella Truffle", "price": 30 }
+    ]
+  },
+  "donuts": {
+    "title": "Donuts",
+    "icon": "🍩",
+    "items": [
+      { "name": "Sugar Coated", "price": 50 },
+      { "name": "Dark Chocolate", "price": 60 },
+      { "name": "Milk Chocolate", "price": 60 },
+      { "name": "White Chocolate", "price": 60 },
+      { "name": "Nutella Glazed", "price": 70 },
+      { "name": "Biscoff Glazed", "price": 70 }
+    ]
+  },
+  "bombaloni": {
+    "title": "Bombaloni",
+    "icon": "🫧",
+    "items": [
+      { "name": "Nutella", "price": 100 },
+      { "name": "Chocolate", "price": 90 },
+      { "name": "Whipped Mango", "price": 90 }
+    ]
+  },
+  "tresLeches": {
+    "title": "Tres Leches",
+    "icon": "🥛",
+    "items": [
+      { "name": "Vanilla", "price": 70 },
+      { "name": "Strawberry", "price": 75 },
+      { "name": "Pistachio", "price": 75 },
+      { "name": "Mango", "price": 75 },
+      { "name": "Rosemilk", "price": 75 },
+      { "name": "Blueberry", "price": 80 },
+      { "name": "Rasamalai", "price": 80 },
+      { "name": "Espresso", "price": 90 }
+    ]
+  },
+  "cookies": {
+    "title": "Cookies",
+    "icon": "🍪",
+    "items": [
+      { "name": "Butter Cookies (30pcs)", "price": 150 },
+      { "name": "Wheat Cookies (30pcs)", "price": 210 },
+      { "name": "Ragi Cookies (20pcs)", "price": 120 },
+      { "name": "Brownie Cookies (10pcs)", "price": 150 },
+      { "name": "Chocochip Cookies (15pcs)", "price": 180 },
+      { "name": "Nutella Stuffed Cookies (15pcs)", "price": 250 }
+    ]
+  },
+  "cakes": {
+    "title": "Cake Flavors",
+    "icon": "🎂",
+    "items": [
+      { "name": "Vanilla 1kg", "price": 600 },
+      { "name": "Strawberry 1kg", "price": 600 },
+      { "name": "Pineapple 1kg", "price": 600 },
+      { "name": "Mango 1kg", "price": 800 },
+      { "name": "Pistachio 1kg", "price": 800 },
+      { "name": "Blackcurrant 1kg", "price": 800 },
+      { "name": "Butterscotch 1kg", "price": 800 },
+      { "name": "Chocolate 1kg", "price": 800 },
+      { "name": "Rosemilk 1kg", "price": 800 },
+      { "name": "Gulab Jamun 1kg", "price": 800 },
+      { "name": "Rasamalai 1kg", "price": 850 },
+      { "name": "Chocotruffle 1kg", "price": 900 },
+      { "name": "Lotus Biscoff 1kg", "price": 900 },
+      { "name": "Ferrero Rocher 1kg", "price": 1000 }
+    ]
+  },
+  "otherDelights": {
+    "title": "Other Delights",
+    "icon": "🌟",
+    "items": [
+      { "name": "Chocolava Cake (Mini)", "price": 40 },
+      { "name": "Korean Cream Cheese Bun", "price": 90 }
+    ]
+  }
+}

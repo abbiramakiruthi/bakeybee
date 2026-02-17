@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="honey" x1="0" x2="1">
+      <stop offset="0" stop-color="#F5A623"/>
+      <stop offset="1" stop-color="#E8A838"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="#FFF9F0"/>
+  <circle cx="32" cy="34" r="14" fill="url(#honey)"/>
+  <rect x="20" y="30" width="24" height="4" rx="2" fill="#3E2415"/>
+  <rect x="20" y="38" width="24" height="4" rx="2" fill="#3E2415"/>
+  <ellipse cx="22" cy="22" rx="6" ry="8" fill="rgba(255,255,255,0.7)"/>
+  <ellipse cx="42" cy="22" rx="6" ry="8" fill="rgba(255,255,255,0.7)"/>
+  <circle cx="28" cy="30" r="2" fill="#3E2415"/>
+  <circle cx="36" cy="30" r="2" fill="#3E2415"/>
+</svg>
