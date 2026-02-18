@@ -60,6 +60,9 @@ export default function Page() {
   const categoryRefs = useRef({})
   const catNavRef = useRef(null)
 
+  const message = 'Hi Bakey Bee! I\'d like to place an order. Please share availability.'
+  const waOrderUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`
+
   const activeCatRef = useRef('brownies')
   const beeOffsetRef = useRef(0)
   const isAutoScrollingRef = useRef(false)
@@ -241,7 +244,7 @@ export default function Page() {
             {showOrderCta && (
               <a
                 className="nav-cta"
-                href={`https://wa.me/${WHATSAPP_NUMBER}`}
+                href={waOrderUrl}
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -297,7 +300,7 @@ export default function Page() {
             </button>
             <a
               className="hero-ghost"
-              href={`https://wa.me/${WHATSAPP_NUMBER}`}
+              href={waOrderUrl}
               target="_blank"
               rel="noopener noreferrer"
             >
