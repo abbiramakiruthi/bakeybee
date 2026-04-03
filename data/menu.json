@@ -108,19 +108,19 @@
     "title": "Cake Flavors",
     "icon": "🎂",
     "items": [
-      { "name": "Vanilla 1kg", "price": 600 },
-      { "name": "Strawberry 1kg", "price": 600 },
-      { "name": "Pineapple 1kg", "price": 600 },
-      { "name": "Mango 1kg", "price": 800 },
-      { "name": "Pistachio 1kg", "price": 800 },
-      { "name": "Blackcurrant 1kg", "price": 800 },
-      { "name": "Butterscotch 1kg", "price": 800 },
-      { "name": "Chocolate 1kg", "price": 800 },
-      { "name": "Rosemilk 1kg", "price": 800 },
-      { "name": "Gulab Jamun 1kg", "price": 800 },
-      { "name": "Rasamalai 1kg", "price": 850 },
-      { "name": "Chocotruffle 1kg", "price": 900 },
-      { "name": "Lotus Biscoff 1kg", "price": 900 },
+      { "name": "Vanilla 1kg", "price": 700 },
+      { "name": "Strawberry 1kg", "price": 700 },
+      { "name": "Pineapple 1kg", "price": 700 },
+      { "name": "Mango 1kg", "price": 900 },
+      { "name": "Pistachio 1kg", "price": 900 },
+      { "name": "Blackcurrant 1kg", "price": 900 },
+      { "name": "Chocolate 1kg", "price": 900 },
+      { "name": "Rosemilk 1kg", "price": 900 },
+      { "name": "Gulab Jamun 1kg", "price": 900 },
+      { "name": "Butterscotch 1kg", "price": 1000 },
+      { "name": "Rasamalai 1kg", "price": 1000 },
+      { "name": "Chocotruffle 1kg", "price": 1000 },
+      { "name": "Lotus Biscoff 1kg", "price": 1000 },
       { "name": "Ferrero Rocher 1kg", "price": 1000 }
     ]
   },
@@ -128,7 +128,7 @@
     "title": "Other Delights",
     "icon": "🌟",
     "items": [
-      { "name": "Chocolava Cake (Mini)", "price": 40 },
+      { "name": "Chocolava Cake (Mini)", "price": 60 },
       { "name": "Korean Cream Cheese Bun", "price": 90 }
     ]
   }
