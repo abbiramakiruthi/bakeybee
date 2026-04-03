@@ -12,8 +12,8 @@
       { "name": "Nutella Brownie", "price": 70 },
       { "name": "Biscoff Brownie", "price": 70, "tag": "Best Seller" },
       { "name": "Cream Cheese Brownie", "price": 70 },
-      { "name": "Brownie Slab ½kg", "price": 400 },
-      { "name": "Eggless Brownie Slab ½kg", "price": 450 }
+      { "name": "Brownie Slab ½kg", "price": 450 },
+      { "name": "Eggless Brownie Slab ½kg", "price": 500 }
     ]
   },
   "blondies": {
@@ -82,14 +82,14 @@
     "title": "Tres Leches",
     "icon": "🥛",
     "items": [
-      { "name": "Vanilla", "price": 70 },
-      { "name": "Strawberry", "price": 75 },
-      { "name": "Pistachio", "price": 75 },
-      { "name": "Mango", "price": 75 },
-      { "name": "Rosemilk", "price": 75 },
-      { "name": "Blueberry", "price": 80 },
-      { "name": "Rasamalai", "price": 80 },
-      { "name": "Espresso", "price": 90 }
+      { "name": "Vanilla", "price": 80 },
+      { "name": "Strawberry", "price": 85 },
+      { "name": "Pistachio", "price": 85 },
+      { "name": "Mango", "price": 85 },
+      { "name": "Rosemilk", "price": 85 },
+      { "name": "Blueberry", "price": 90 },
+      { "name": "Rasamalai", "price": 90 },
+      { "name": "Espresso", "price": 100 }
     ]
   },
   "cookies": {
