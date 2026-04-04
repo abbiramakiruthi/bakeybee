@@ -9,7 +9,7 @@
       { "name": "Pistachio Brownie", "price": 60 },
       { "name": "Double Chocolate Brownie", "price": 60, "tag": "Must Try" },
       { "name": "Triple Chocolate Brownie", "price": 60 },
-      { "name": "Nutella Brownie", "price": 70 },
+      { "name": "Nutella Brownie", "price": 70, "tag": "Must Try"  },
       { "name": "Biscoff Brownie", "price": 70, "tag": "Best Seller" },
       { "name": "Cream Cheese Brownie", "price": 70 },
       { "name": "Brownie Slab ½kg", "price": 450 },
@@ -37,7 +37,7 @@
       { "name": "Chocolate Overloaded", "price": 120, "desc": "Topped with melted Dark / White / Milk chocolate" },
       { "name": "Double Choco Overloaded", "price": 140, "desc": "Topped with two melted chocolates of your choice" },
       { "name": "Triple Choco Overloaded", "price": 150, "desc": "Topped with dark, white, and milk chocolate" },
-      { "name": "Nutella Overloaded", "price": 160 },
+      { "name": "Nutella Overloaded", "price": 160, "tag": "Best Seller" },
       { "name": "Biscoff Overloaded", "price": 160 }
     ]
   },
@@ -47,7 +47,7 @@
     "items": [
       { "name": "Chocochip Vanilla", "price": 20 },
       { "name": "Nutty Vanilla", "price": 20 },
-      { "name": "Strawberry", "price": 20 },
+      { "name": "Strawberry", "price": 20, "tag": "Must Try"  },
       { "name": "Pineapple", "price": 20 },
       { "name": "Pistachio", "price": 20 },
       { "name": "Marble", "price": 20 },
@@ -64,7 +64,7 @@
       { "name": "Sugar Coated", "price": 50 },
       { "name": "Dark Chocolate", "price": 60 },
       { "name": "Milk Chocolate", "price": 60 },
-      { "name": "White Chocolate", "price": 60 },
+      { "name": "White Chocolate", "price": 60, "tag": "Must Try"  },
       { "name": "Nutella Glazed", "price": 70 },
       { "name": "Biscoff Glazed", "price": 70 }
     ]
@@ -73,7 +73,7 @@
     "title": "Bombaloni",
     "icon": "🫧",
     "items": [
-      { "name": "Nutella", "price": 100 },
+      { "name": "Nutella", "price": 100, "tag": "Must Try"  },
       { "name": "Chocolate", "price": 90 },
       { "name": "Whipped Mango", "price": 90 }
     ]
@@ -84,9 +84,9 @@
     "items": [
       { "name": "Vanilla", "price": 80 },
       { "name": "Strawberry", "price": 85 },
-      { "name": "Pistachio", "price": 85 },
-      { "name": "Mango", "price": 85 },
-      { "name": "Rosemilk", "price": 85 },
+      { "name": "Pistachio", "price": 85, "tag": "Must Try" },
+      { "name": "Mango", "price": 85, "tag": "Must Try" },
+      { "name": "Rosemilk", "price": 85, "tag": "Must Try" },
       { "name": "Blueberry", "price": 90 },
       { "name": "Rasamalai", "price": 90 },
       { "name": "Espresso", "price": 100 }
@@ -100,7 +100,7 @@
       { "name": "Wheat Cookies (30pcs)", "price": 210 },
       { "name": "Ragi Cookies (20pcs)", "price": 120 },
       { "name": "Brownie Cookies (10pcs)", "price": 150 },
-      { "name": "Chocochip Cookies (15pcs)", "price": 180 },
+      { "name": "Chocochip Cookies (15pcs)", "price": 180, "tag": "Best Seller" },
       { "name": "Nutella Stuffed Cookies (15pcs)", "price": 250 }
     ]
   },
@@ -118,7 +118,7 @@
       { "name": "Rosemilk 1kg", "price": 900 },
       { "name": "Gulab Jamun 1kg", "price": 900 },
       { "name": "Butterscotch 1kg", "price": 1000 },
-      { "name": "Rasamalai 1kg", "price": 1000 },
+      { "name": "Rasamalai 1kg", "price": 1000, "tag": "Best Seller" },
       { "name": "Chocotruffle 1kg", "price": 1000 },
       { "name": "Lotus Biscoff 1kg", "price": 1000 },
       { "name": "Ferrero Rocher 1kg", "price": 1000 }
@@ -128,8 +128,8 @@
     "title": "Other Delights",
     "icon": "🌟",
     "items": [
-      { "name": "Chocolava Cake (Mini)", "price": 60 },
-      { "name": "Korean Cream Cheese Bun", "price": 90 }
+      { "name": "Chocolava Cake (Mini)", "price": 60, "tag": "Must Try" },
+      { "name": "Korean Cream Cheese Bun", "price": 90, "tag": "Must Try" }
     ]
   }
 }
